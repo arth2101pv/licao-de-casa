@@ -1,0 +1,47 @@
+body {
+    background-color: #ffd294;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:#6e583e;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #dcad70;
+}
+
+h3 {
+    text-align: center;
+    margin-top: -5px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    color: #dcad70;
+}
+
+th, td {
+    border: 3px solid #cf964f;
+    background-color: #ffdfa0;
+    padding: 5px;
+    text-align: center;
+    max-width: 600px;
+}
+
+span {
+    font-size: 25px;
+}
+
+footer {
+    background-color:#6e583e;
+    padding: 20px;
+}
